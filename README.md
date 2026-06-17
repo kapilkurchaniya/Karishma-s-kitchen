@@ -154,7 +154,7 @@ pnpm lint    # ESLint
 
 ## 📄 License
 
-This project is [MIT licensed](LICENSE) ✨
+This project is [GNU General Public licensed](LICENSE) ✨
 
 ---
 
